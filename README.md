@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Aman-Pandit-MEng/leet_code_practice/tree/master/0283-move-zeroes) |
+| [0643-maximum-average-subarray-i](https://github.com/Aman-Pandit-MEng/leet_code_practice/tree/master/0643-maximum-average-subarray-i) |
 | [1848-sum-of-unique-elements](https://github.com/Aman-Pandit-MEng/leet_code_practice/tree/master/1848-sum-of-unique-elements) |
 ## Hash Table
 |  |
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1894-merge-strings-alternately](https://github.com/Aman-Pandit-MEng/leet_code_practice/tree/master/1894-merge-strings-alternately) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Aman-Pandit-MEng/leet_code_practice/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
