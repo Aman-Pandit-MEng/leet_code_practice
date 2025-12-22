@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0283-move-zeroes](https://github.com/Aman-Pandit-MEng/leet_code_practice/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/Aman-Pandit-MEng/leet_code_practice/tree/master/0643-maximum-average-subarray-i) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/Aman-Pandit-MEng/leet_code_practice/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1833-find-the-highest-altitude](https://github.com/Aman-Pandit-MEng/leet_code_practice/tree/master/1833-find-the-highest-altitude) |
 | [1848-sum-of-unique-elements](https://github.com/Aman-Pandit-MEng/leet_code_practice/tree/master/1848-sum-of-unique-elements) |
 ## Hash Table
 |  |
 | ------- |
+| [1392-find-the-difference-of-two-arrays](https://github.com/Aman-Pandit-MEng/leet_code_practice/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1848-sum-of-unique-elements](https://github.com/Aman-Pandit-MEng/leet_code_practice/tree/master/1848-sum-of-unique-elements) |
 ## Counting
 |  |
